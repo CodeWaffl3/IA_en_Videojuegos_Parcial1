@@ -100,7 +100,7 @@ public class SteeringBehaviour : MonoBehaviour
         //Flee();
         //Pursue();
         //Evade();
-        //Wander();
-        Hide();
+        Wander();
+        //Hide();
     }
 }
